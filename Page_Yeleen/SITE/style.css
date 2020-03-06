@@ -1,6 +1,6 @@
 p
 {
-    color: black;
+	color: black;
 }
 
 #logo
@@ -8,7 +8,7 @@ p
 
 	width: 20%;
 }
-#eye,#sound,#ear,#heart,#termo
+#eye,#sound,#ear,#termo,#heart
 {
 	width: 40%;
 }
@@ -24,11 +24,11 @@ header, footer
 
 }
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  background-color:#2043F4 ;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color:#2043F4 ;
 }
 
 
@@ -48,8 +48,8 @@ ul {
 
 }
 .navbarr a:hover{
-background-color: #20C9F4;
-  color: white;
+	background-color: #20C9F4;
+	color: white;
 
 }
 
@@ -66,15 +66,15 @@ h1{
 	height: 50%;
 	border: 3px #D0EDF7 solid;
 	border-radius: 10px;
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    background-color: #D0EDF7;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	background-color: #D0EDF7;
 }
 .BoutTry{
 	text-decoration: none;
 	display: inline-block;
-	width: 60%;
+	width: 40%;
 	border: 2px blue outset;
 
 	font-size:25px;
@@ -86,7 +86,7 @@ h1{
 }
 .BoutTry a:hover{
 	background-color: #f4566a;
-    color: #98ff4d;
+	color: #98ff4d;
 
 }
 
@@ -97,5 +97,3 @@ h1{
 	margin-right: auto;
 	margin-left: auto;
 }
-
-
