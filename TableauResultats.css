@@ -1,3 +1,4 @@
+
 html, body
 {
     width: 100%;
@@ -118,64 +119,6 @@ header h1
     height: 2px;
     background-color: #2699FB;
 }
-#canvas{
-    display:inline-block;
-    horiz-align: right;
-}
-#canvas_tableau{
-    background-color: #D0EDF7;
-    width: 35%;
-    height: 35%;
-    border-radius: 30px;
-    position: absolute;
-    left: 350px;
-    top: 300px;
-    margin-bottom: 100px;
-    padding-bottom: 20px;
-}
-#canvas_graphique{
-    background-color: #D0EDF7;
-    width: 35%;
-    height: 35%;
-    border-radius: 30px;
-    margin-bottom: 100px;
-    padding-bottom: 20px;
-    position: absolute;
-    left: 1100px;
-    top: 300px;
-}
-h2{
-    text-align: center;
-    font-family: Georgia;
-
-
-}
-.texte_milieu{
-    margin-top: 125px ;
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-bottom: 75px;
-    font-family: Arial;
-
-}
-.troisieme_bouton{
-    border: 0;
-    line-height: 1.5;
-    padding: 10px 15px;
-    font-size: 1rem;
-    text-align: center;
-    color: #F1F9FF;
-    border-radius: 2px;
-    background-color: #2043F4;
-    rgba(0, 0, 0, .2),
-    rgba(0, 0, 0, .2) 30%,
-    rgba(0, 0, 0, 0));
-    text-decoration: none;
-    margin-left:80%;
-    -top: 150px;
-
-
-}
 /* FOOTER */
 .traitdubas{
     height: 1.5px;
@@ -188,7 +131,7 @@ footer
     bottom: 0px;
     left: 0px;
     width: 100%;
-    margin-top: 45.5%;
+    margin-top: 29.7%;
 }
 footer .avantfin {
     display: flex;
@@ -244,4 +187,24 @@ footer a
     padding-left: 120px;
     padding-right: 120px;
     text-decoration: none;
+}
+table
+ {
+     border-collapse: collapse;
+ }
+tr,td
+{
+    border:1px solid black
+}
+#tableau
+{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+thead
+{
+    font-weight:bold;
+    font-size:1.2em;
+    margin-left: 5px;
+    margin-right: 5px;
 }
