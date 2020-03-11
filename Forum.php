@@ -17,7 +17,7 @@
 <!--  ---------------------- FORUM ---------------------------------------   -->
 <section>
 
-    <h1> FORUM </h1>
+    <h1 id="titre_forum"> FORUM </h1>
     <div id="description_forum">
         <p>Bienvenue sur le forum, profitez-en pour poser vos questions sur notre système ou sur notre site internet !</p>
     </div>

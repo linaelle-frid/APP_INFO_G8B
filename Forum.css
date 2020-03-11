@@ -5,6 +5,12 @@ html,body
     padding:0;
 
 }
+
+#titre_forum {
+    text-indent: 35%;
+    font-size: 300%;
+
+}
 #description_forum{
     font-size:1.6em;
     text-align:left;
@@ -23,7 +29,7 @@ html,body
 table {
     border: medium solid #6495ed;
     border-collapse: collapse;
-    width: 100%;
+    width: 80%;
 }
 th {
     font-family: monospace;
@@ -45,3 +51,6 @@ caption {
     font-family: sans-serif;
 }
 
+section {
+    margin-bottom: 30%;
+}
