@@ -20,7 +20,7 @@ require('ENTETE_MENU.php');
 
 ?>
 
-<!-- Milieu -->
+<!-- Milieu  -->
 
 <h1 class="titre_connexion"> CONNEXION</h1>
 
