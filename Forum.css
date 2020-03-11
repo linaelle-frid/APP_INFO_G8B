@@ -1,0 +1,30 @@
+html, body
+{
+    width: 70%;
+    height : 70%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*--------------------------------------Forum----------------------------------------------------*/
+#description_forum {
+    font-size: 1.6em ;
+    font-family: Times New Roman;
+    text-align:right;
+    color:midnightblue;
+}
+
+.bouton{
+    border-radius:10px;
+    background-color: white;
+
+}
+.bouton a hover{
+    <a href="formulaire_question.html">
+}
+
+#fil_discussion{
+
+}
